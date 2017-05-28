@@ -1,0 +1,10 @@
+id\ac\itb\utils\BeaconUtils.class
+id\ac\itb\controller\ApiController.class
+id\ac\itb\model\Building.class
+id\ac\itb\configuration\SwaggerConfig.class
+id\ac\itb\model\Floor.class
+id\ac\itb\Application.class
+id\ac\itb\model\Position.class
+id\ac\itb\model\Room.class
+id\ac\itb\model\Ibeacon.class
+id\ac\itb\model\Beacon.class
